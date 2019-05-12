@@ -11,10 +11,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webmap/webmap_2.py">
+        <entry file="file://$PROJECT_DIR$/03. productivity_tool/productivity_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="125" selection-start-line="18" selection-start-column="125" selection-end-line="18" selection-end-column="125" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,10 +48,12 @@
         <option value="$PROJECT_DIR$/webmap/webmap_5.py" />
         <option value="$PROJECT_DIR$/webmap/webmap_6.py" />
         <option value="$PROJECT_DIR$/webmap/webmap_2.py" />
+        <option value="$PROJECT_DIR$/productivity_tool/productivity_tool.py" />
+        <option value="$PROJECT_DIR$/03. productivity_tool/productivity_tool.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="width" value="1148" />
     <option name="height" value="1454" />
@@ -69,17 +74,7 @@
             <path>
               <item name="MasteringPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\14078\PycharmProjects\MasteringPython" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="MasteringPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\14078\PycharmProjects\MasteringPython" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="babygenerator" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="MasteringPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\14078\PycharmProjects\MasteringPython" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="webmap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="03. productivity_tool" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -90,7 +85,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.webmap_6">
+  <component name="RunManager" selected="Python.productivity_tool">
     <configuration name="babyname_I" type="PythonConfigurationType" factoryName="Python">
       <module name="MasteringPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webmap_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="productivity_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MasteringPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webmap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03. productivity_tool" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webmap/webmap_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. productivity_tool/productivity_tool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.productivity_tool" />
         <item itemvalue="Python.webmap_6" />
         <item itemvalue="Python.webmap_5" />
         <item itemvalue="Python.webmap_4" />
         <item itemvalue="Python.webmap_2" />
-        <item itemvalue="Python.webmap_1" />
       </list>
     </recent_temporary>
   </component>
@@ -255,21 +250,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <frame x="-7" y="0" width="765" height="969" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27039784" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17421125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32624114" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976135" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32577565" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995272" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33293557" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -392,6 +387,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productivity_tool/productivity_tool.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. productivity_tool/productivity_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="125" selection-start-line="18" selection-start-column="125" selection-end-line="18" selection-end-column="125" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
